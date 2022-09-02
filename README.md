@@ -12,7 +12,7 @@ Cyclistic runs a successful bike-share program in Chicago. Since its launch in 2
 ___
 
 ## Problem Statement
-This analysis aims to evaluate how annual members and casual riders differ especially in their usage of the Cyclistic bike program using the trends from the Cyclistic historical bike trip data.
+This analysis aims to evaluate how annual members and casual riders differ especially in their usage of the Cyclistic bike program using the trends from the Cyclistic historical bike trip data in order to develop a roboust markerting strategy.
 ___
 
 ## Prepare
